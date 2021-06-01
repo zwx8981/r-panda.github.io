@@ -30,11 +30,11 @@ Anchor-Free Person Search.  **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, S
 
 
 
-Learning Multi-Attention Context Graph for Group-Based Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Bingbing Ni, Jiaxin Chen, Li Liu, Fan Zhu, Wei-Shi Zheng, Xiaokang Yang, Ling Shao.  IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2020. [paper]  [code]
+Learning Multi-Attention Context Graph for Group-Based Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Bingbing Ni, Jiaxin Chen, Li Liu, Fan Zhu, Wei-Shi Zheng, Xiaokang Yang, Ling Shao.  IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2020. [paper](https://arxiv.org/abs/2104.14236)  [code](https://github.com/daodaofr/group_reid)
 
 
 
-Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Jiaxin Chen, Li Liu, Fan Zhu, Ying Tai, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020. [paper]  [code]
+Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Jiaxin Chen, Li Liu, Fan Zhu, Ying Tai, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Learning_Multi-Granular_Hypergraphs_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)  [code](https://github.com/daodaofr/hypergraph_reid)
 
 
 
