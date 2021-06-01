@@ -30,31 +30,31 @@ Anchor-Free Person Search.  **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, S
 
 
 
-Learning Multi-Attention Context Graph for Group-Based Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Bingbing Ni, Jiaxin Chen, Li Liu, Fan Zhu, Wei-Shi Zheng, Xiaokang Yang, Ling Shao.  IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2020. [paper](https://arxiv.org/abs/2104.14236)  [code](https://github.com/daodaofr/group_reid)
+Learning Multi-Attention Context Graph for Group-Based Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Bingbing Ni, Jiaxin Chen, Li Liu, Fan Zhu, Wei-Shi Zheng, Xiaokang Yang, Ling Shao.  IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2020. [[paper]](https://arxiv.org/abs/2104.14236)  [[code]](https://github.com/daodaofr/group_reid)
 
 
 
-Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Jiaxin Chen, Li Liu, Fan Zhu, Ying Tai, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Learning_Multi-Granular_Hypergraphs_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)  [code](https://github.com/daodaofr/hypergraph_reid)
+Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Jiaxin Chen, Li Liu, Fan Zhu, Ying Tai, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Learning_Multi-Granular_Hypergraphs_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)  [[code]](https://github.com/daodaofr/hypergraph_reid)
 
 
 
-Learning Context Graph for Person Search.  **Yichao Yan**\*, Qiang Zhang\*, Bingbing Ni, Minghao Xu, and Xiaokang Yang. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019, Oral. [paper](https://arxiv.org/abs/1904.01830)  [code](https://github.com/sjtuzq/person_search_gcn)
+Learning Context Graph for Person Search.  **Yichao Yan**\*, Qiang Zhang\*, Bingbing Ni, Minghao Xu, and Xiaokang Yang. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019, Oral. [[paper]](https://arxiv.org/abs/1904.01830)  [[code]](https://github.com/sjtuzq/person_search_gcn)
 
 
 
-Fine-grained Video Captioning via Graph-based Multi-granularity Interaction Learning.  **Yichao Yan**\*, Ning Zhuang\*, Bingbing Ni\*, Jian Zhang, Minghao Xu, Qiang Zhang, Zheng Zhang, Shuo Cheng, Qi Tian, Xiaokang Yang, Wenjun Zhang. IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2019. [paper](https://ieeexplore.ieee.org/document/8865609)
+Fine-grained Video Captioning via Graph-based Multi-granularity Interaction Learning.  **Yichao Yan**\*, Ning Zhuang\*, Bingbing Ni\*, Jian Zhang, Minghao Xu, Qiang Zhang, Zheng Zhang, Shuo Cheng, Qi Tian, Xiaokang Yang, Wenjun Zhang. IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2019. [[paper]](https://ieeexplore.ieee.org/document/8865609)
 
 
 
-Person Re-Identification via Recurrent Feature Aggregation.  **Yichao Yan**, Bingbing Ni, Zhichao Song, Chao Ma, Yan Yan and Xiaokang Yang. European Conference on Computer Vision (**ECCV**), 2016. [paper](https://drive.google.com/open?id=0ByS8YXR7ycXHU1ZwSXNPWUNtNFU) [code](https://github.com/daodaofr/caffe-re-id) [data&model](https://drive.google.com/open?id=0ByS8YXR7ycXHMGtJSkRLQUVlcmM)
+Person Re-Identification via Recurrent Feature Aggregation.  **Yichao Yan**, Bingbing Ni, Zhichao Song, Chao Ma, Yan Yan and Xiaokang Yang. European Conference on Computer Vision (**ECCV**), 2016. [[paper]](https://drive.google.com/open?id=0ByS8YXR7ycXHU1ZwSXNPWUNtNFU) [[code]](https://github.com/daodaofr/caffe-re-id) [[data&model]](https://drive.google.com/open?id=0ByS8YXR7ycXHMGtJSkRLQUVlcmM)
 
 
 
-Cross-modality motion parameterization for fine-grained video prediction.  **Yichao Yan**, Bingbing Ni, Wendong Zhang, Jun Tang, Xiaokang Yang. Computer Vision and Image Understanding (**CVIU**) 2019. [paper] 
+Cross-modality motion parameterization for fine-grained video prediction.  **Yichao Yan**, Bingbing Ni, Wendong Zhang, Jun Tang, Xiaokang Yang. Computer Vision and Image Understanding (**CVIU**) 2019. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314219300426) 
 
 
 
-Structure-Constrained Motion Sequence Generation.  **Yichao Yan**, Bingbing Ni, Wendong Zhang, Jingwei Xu, Xiaokang Yang. IEEE Transactions on Multimedia (**TMM**) 2018. [paper] 
+Structure-Constrained Motion Sequence Generation.  **Yichao Yan**, Bingbing Ni, Wendong Zhang, Jingwei Xu, Xiaokang Yang. IEEE Transactions on Multimedia (**TMM**) 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8565937)
 
 
 
