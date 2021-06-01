@@ -1,8 +1,6 @@
-## Welcome to My Homepages
+### Dr. Yichao Yan
 
-**Dr. Yichao Yan**
-
-**Assistant Professor** 
+## Assistant Professor, Shanghai Jiao Tong University
 
 Email: yanyichao(at)sjtu.edu.cn
 
@@ -15,7 +13,7 @@ We have two positions (two Master) open for 2022 Fall in the AI Institute, Shang
 
 Since May. 2021, I am a tenure-track assistant professor at Shanghai Jiao Tong University. I received my PhD degree from Shanghai Jiao Tong University in 2019, supervised by Professor Xiaokang Yang and Professor Bingbing Ni. I received B. E. from Shanghai Jiao Tong University in 2013. I was a research scientist at the Inception Institute of Artificial Intelligence (IIAI) from June 2019 to April 2021.
 
-I am interested in computer vision and machine learning problems. Typically, I am working on (1) Person Re-identification;  (2) Image/video generation (3) Activity prediction; and (4) Face recognition.
+I am interested in **computer vision** and machine learning problems. Typically, I am working on (1) Person Re-identification;  (2) Image/video generation (3) Activity prediction; and (4) Face recognition.
 
 ### Updates
 
