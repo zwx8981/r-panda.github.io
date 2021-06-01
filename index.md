@@ -1,6 +1,8 @@
 ## Dr. Yichao Yan
 
-## Assistant Professor
+## Assistant Professor, AI Institute, SJTU
+
+[Google Scholar](https://scholar.google.com/citations?user=ZPHMMRkAAAAJ&hl=zh-CN)  [Github](https://github.com/daodaofr)
 
 Email: yanyichao(at)sjtu.edu.cn
 
