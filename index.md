@@ -13,15 +13,15 @@ We have two positions (two Master) open for 2022 Fall in the AI Institute, Shang
 
 ### Biography
 
-Since May. 2021, I am a tenure-track assistant professor at Shanghai Jiao Tong University. I received my PhD degree from Shanghai Jiao Tong University in 2019, supervised by Professor Xiaokang Yang and Professor Bingbing Ni. I received B. E. from Shanghai Jiao Tong University in 2013. I was a research scientist at the Inception Institute of Artificial Intelligence (IIAI) from June 2019 to April 2021.
+Since May. 2021, I am a tenure-track assistant professor at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn). I received my PhD degree from Shanghai Jiao Tong University in 2019, supervised by Professor [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en) and Professor [Bingbing Ni](https://sites.google.com/site/bingbingni1983/). I received B. E. from Shanghai Jiao Tong University in 2013. I was a research scientist at the [Inception Institute of Artificial Intelligence (IIAI)](https://www.inceptioniai.org/) from June 2019 to April 2021.
 
 I am interested in **computer vision** and machine learning problems. Typically, I am working on (1) Person Re-identification;  (2) Image/video generation (3) Activity prediction; and (4) Face recognition.
 
 
 ### Updates
 
--05/2021  I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
--11/2020  I receive the Excellent Doctoral Dissertation Award from CSIG.
+- 05/2021  I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
+- 11/2020  I receive the Excellent Doctoral Dissertation Award from CSIG.
 
 
 
