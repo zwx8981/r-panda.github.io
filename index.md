@@ -58,34 +58,34 @@ Structure-Constrained Motion Sequence Generation.  **Yichao Yan**, Bingbing Ni, 
 
 
 
-Pose transferrable person re-identification.  Jinxian Liu\*, Bingbing Ni\*, **Yichao Yan**\*, Peng Zhou, Shuo Cheng, Jianguo Hu.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018. [paper]
+Pose transferrable person re-identification.  Jinxian Liu\*, Bingbing Ni\*, **Yichao Yan**\*, Peng Zhou, Shuo Cheng, Jianguo Hu.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Pose_Transferrable_Person_CVPR_2018_paper.html)
 
 
 
-Multi-level attention model for person re-identification.  **Yichao Yan**, Bingbing Ni, Jinxian Liu, Xiaokang Yang. Pattern Recognition Letters (**PRL**)2018. [paper]
+Multi-level attention model for person re-identification.  **Yichao Yan**, Bingbing Ni, Jinxian Liu, Xiaokang Yang. Pattern Recognition Letters (**PRL**)2018. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518304562)
 
 
 
-Video summarization via semantic attended networks.  Huawei Wei, Bingbing Ni, **Yichao Yan**, Huanyu Yu, Xiaokang Yang, Chen Yao.  Thirty-Second AAAI Conference on Artificial Intelligence  (**AAAI**) 2018. [paper]
+Video summarization via semantic attended networks.  Huawei Wei, Bingbing Ni, **Yichao Yan**, Huanyu Yu, Xiaokang Yang, Chen Yao.  Thirty-Second AAAI Conference on Artificial Intelligence  (**AAAI**) 2018. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16581/15690)
 
 
 
-Skeleton-aided articulated motion generation.  **Yichao Yan**, Jingwei Xu, Bingbing Ni, Wendong Zhang and Xiaokang Yang. Proceedings of the 25th ACM international conference on Multimedia (**ACM MM**) 2017. [paper]
+Skeleton-aided articulated motion generation.  **Yichao Yan**, Jingwei Xu, Bingbing Ni, Wendong Zhang and Xiaokang Yang. Proceedings of the 25th ACM international conference on Multimedia (**ACM MM**) 2017. [[paper]](https://arxiv.org/abs/1707.01058)
 
 
 
-Fine-grained recognition via attribute-guided attentive feature aggregation.  **Yichao Yan**, Bingbing Ni and Xiaokang Yang.  Proceedings of the 25th ACM international conference on Multimedia (**ACM MM**) 2017. [paper]
+Fine-grained recognition via attribute-guided attentive feature aggregation.  **Yichao Yan**, Bingbing Ni and Xiaokang Yang.  Proceedings of the 25th ACM international conference on Multimedia (**ACM MM**) 2017. [[paper]](https://dl.acm.org/citation.cfm?id=3123358)
 
 
 
-Deep Cross-Modality Alignment for Multi-Shot Person Re-IDentification.  Zhichao Song, Bingbing Ni, **Yichao Yan**, Zhe Ren, Yi Xu, Xiaokang Yang.  Proceedings of the 25th ACM international conference on Multimedia (**ACM MM**) 2017. [paper]
+Deep Cross-Modality Alignment for Multi-Shot Person Re-IDentification.  Zhichao Song, Bingbing Ni, **Yichao Yan**, Zhe Ren, Yi Xu, Xiaokang Yang.  Proceedings of the 25th ACM international conference on Multimedia (**ACM MM**) 2017. [[paper]](https://dl.acm.org/citation.cfm?id=3123324)
 
 
 
-Predicting Human Interaction via Relative Attention Model.  **Yichao Yan**, Bingbing Ni and Xiaokang Yang.  International Joint Conference on Artificial Intelligence (**IJCAI**), 2017. [paper]
+Predicting Human Interaction via Relative Attention Model.  **Yichao Yan**, Bingbing Ni and Xiaokang Yang.  International Joint Conference on Artificial Intelligence (**IJCAI**), 2017. [[paper]](https://arxiv.org/pdf/1705.09467.pdf)
 
 
 
-Image Matching via Loopy RNN.  Donghao Luo, Bingbing Ni, **Yichao Yan** and Xiaokang Yang.  International Joint Conference on Artificial Intelligence (**IJCAI**), 2017. [paper]
+Image Matching via Loopy RNN.  Donghao Luo, Bingbing Ni, **Yichao Yan** and Xiaokang Yang.  International Joint Conference on Artificial Intelligence (**IJCAI**), 2017. [[paper]](https://arxiv.org/abs/1706.03190)
 
 
