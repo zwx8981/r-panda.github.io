@@ -26,7 +26,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Publications
-Anchor-Free Person Search.  **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, Shengcai Liao, Li Liu, Fan Zhu, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021. [paper]  [code]
+Anchor-Free Person Search.  **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, Shengcai Liao, Li Liu, Fan Zhu, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021. [paper](https://arxiv.org/abs/2103.11617) [code](https://github.com/daodaofr/AlignPS)
 
 
 
