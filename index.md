@@ -1,5 +1,8 @@
 ## Welcome to My Homepages
 
+Dr. Yichao Yan 
+Assistant Professor 
+Email: yanyichao91(at)gmail.com, yanyichao(at)sjtu.edu.cn
 
 
 ### Biography
@@ -8,25 +11,10 @@ Since May. 2021, I am a tenure-track assistant professor at Shanghai Jiao Tong U
 
 I am interested in computer vision and machine learning problems. Typically, I am working on (1) Person Re-identification;  (2) Image/video generation (3) Activity prediction; and (4) Face recognition.
 
-```markdown
-Syntax highlighted code block
+### Updates
+05/2021  I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
