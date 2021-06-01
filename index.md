@@ -26,158 +26,66 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Publications
-Anchor-Free Person Search. **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, Shengcai Liao, Li Liu, Fan Zhu, Ling Shao
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
-[paper]  [code]
+Anchor-Free Person Search.  **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, Shengcai Liao, Li Liu, Fan Zhu, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021. [paper]  [code]
 
 
 
-Learning Multi-Attention Context Graph for Group-Based Re-Identification
+Learning Multi-Attention Context Graph for Group-Based Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Bingbing Ni, Jiaxin Chen, Li Liu, Fan Zhu, Wei-Shi Zheng, Xiaokang Yang, Ling Shao.  IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2020. [paper]  [code]
 
-Yichao Yan*, Jie Qin*, Bingbing Ni, Jiaxin Chen, Li Liu, Fan Zhu, Wei-Shi Zheng, Xiaokang Yang, Ling Shao
 
-IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI) 2020. 
 
-[paper]  [code]
+Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification.  **Yichao Yan**\*, Jie Qin\*, Jiaxin Chen, Li Liu, Fan Zhu, Ying Tai, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020. [paper]  [code]
 
 
 
-Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification
+Learning Context Graph for Person Search.  **Yichao Yan**\*, Qiang Zhang\*, Bingbing Ni, Minghao Xu, and Xiaokang Yang. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019, Oral. [paper]  [code]
 
-Yichao Yan*, Jie Qin*, Jiaxin Chen, Li Liu, Fan Zhu, Ying Tai, Ling Shao
 
- Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020
 
-[paper]  [code]
+Fine-grained Video Captioning via Graph-based Multi-granularity Interaction Learning.  **Yichao Yan**\*, Ning Zhuang\*, Bingbing Ni\*, Jian Zhang, Minghao Xu, Qiang Zhang, Zheng Zhang, Shuo Cheng, Qi Tian, Xiaokang Yang, Wenjun Zhang. IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2019. [paper] 
 
 
 
-Learning Context Graph for Person Search
+Person Re-Identification via Recurrent Feature Aggregation.  **Yichao Yan**, Bingbing Ni, Zhichao Song, Chao Ma, Yan Yan and Xiaokang Yang. European Conference on Computer Vision (**ECCV**), 2016. [paper][code][data&model]
 
-Yichao Yan*, Qiang Zhang*, Bingbing Ni, Minghao Xu, and Xiaokang Yang, 
 
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019, Oral
 
-[paper]  [code]
+Cross-modality motion parameterization for fine-grained video prediction.  **Yichao Yan**, Bingbing Ni, Wendong Zhang, Jun Tang, Xiaokang Yang. Computer Vision and Image Understanding (**CVIU**) 2019. [paper] 
 
 
 
-Fine-grained Video Captioning via Graph-based Multi-granularity Interaction Learning
+Structure-Constrained Motion Sequence Generation.  **Yichao Yan**, Bingbing Ni, Wendong Zhang, Jingwei Xu, Xiaokang Yang. IEEE Transactions on Multimedia (**TMM**) 2018. [paper] 
 
-Yichao Yan*, Ning Zhuang*, Bingbing Ni*, Jian Zhang, Minghao Xu, Qiang Zhang, Zheng Zhang, Shuo Cheng, Qi Tian, Xiaokang Yang, Wenjun Zhang
 
-IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI) 2019
 
-[paper] 
+Pose transferrable person re-identification.  Jinxian Liu\*, Bingbing Ni\*, **Yichao Yan**\*, Peng Zhou, Shuo Cheng, Jianguo Hu.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018. [paper]
 
 
 
-Person Re-Identification via Recurrent Feature Aggregation
+Multi-level attention model for person re-identification.  **Yichao Yan**, Bingbing Ni, Jinxian Liu, Xiaokang Yang. Pattern Recognition Letters (**PRL**)2018. [paper]
 
-Yichao Yan, Bingbing Ni, Zhichao Song, Chao Ma, Yan Yan and Xiaokang Yang 
 
-European Conference on Computer Vision (ECCV), 2016
 
-[paper][code][data&model]
+Video summarization via semantic attended networks.  Huawei Wei, Bingbing Ni, **Yichao Yan**, Huanyu Yu, Xiaokang Yang, Chen Yao.  Thirty-Second AAAI Conference on Artificial Intelligence  (**AAAI**) 2018. [paper]
 
 
 
-Cross-modality motion parameterization for fine-grained video prediction
+Skeleton-aided articulated motion generation.  **Yichao Yan**, Jingwei Xu, Bingbing Ni, Wendong Zhang and Xiaokang Yang. Proceedings of the 25th ACM international conference on Multimedia (**ACM MM**) 2017. [paper]
 
-Yichao Yan, Bingbing Ni, Wendong Zhang, Jun Tang, Xiaokang Yang
 
-Computer Vision and Image Understanding (CVIU) 2019
 
-[paper] 
+Fine-grained recognition via attribute-guided attentive feature aggregation.  **Yichao Yan**, Bingbing Ni and Xiaokang Yang.  Proceedings of the 25th ACM international conference on Multimedia (**ACM MM**) 2017. [paper]
 
 
 
-Structure-Constrained Motion Sequence Generation
+Deep Cross-Modality Alignment for Multi-Shot Person Re-IDentification.  Zhichao Song, Bingbing Ni, **Yichao Yan**, Zhe Ren, Yi Xu, Xiaokang Yang.  Proceedings of the 25th ACM international conference on Multimedia (**ACM MM**) 2017. [paper]
 
-Yichao Yan, Bingbing Ni, Wendong Zhang, Jingwei Xu, Xiaokang Yang
 
-IEEE Transactions on Multimedia (TMM) 2018
 
-[paper] 
+Predicting Human Interaction via Relative Attention Model.  **Yichao Yan**, Bingbing Ni and Xiaokang Yang.  International Joint Conference on Artificial Intelligence (**IJCAI**), 2017. [paper]
 
 
 
-Pose transferrable person re-identification 
-
-Jinxian Liu*, Bingbing Ni*, Yichao Yan*, Peng Zhou, Shuo Cheng, Jianguo Hu
-
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018
-
-[paper]
-
-
-
-Multi-level attention model for person re-identification
-
-Yichao Yan, Bingbing Ni, Jinxian Liu, Xiaokang Yang
-
-Pattern Recognition Letters (PRL)2018
-
-[paper]
-
-
-
-Video summarization via semantic attended networks
-
-Huawei Wei, Bingbing Ni, Yichao Yan, Huanyu Yu, Xiaokang Yang, Chen Yao
-
-Thirty-Second AAAI Conference on Artificial Intelligence  (AAAI) 2018
-
-[paper]
-
-
-
-Skeleton-aided articulated motion generation
-
-Yichao Yan, Jingwei Xu, Bingbing Ni, Wendong Zhang and Xiaokang Yang
-
-Proceedings of the 25th ACM international conference on Multimedia (ACM MM) 2017
-
-[paper]
-
-
-
-Fine-grained recognition via attribute-guided attentive feature aggregation
-
-Yichao Yan, Bingbing Ni and Xiaokang Yang
-
-Proceedings of the 25th ACM international conference on Multimedia (ACM MM) 2017
-
-[paper]
-
-
-
-Deep Cross-Modality Alignment for Multi-Shot Person Re-IDentification
-
-Zhichao Song, Bingbing Ni, Yichao Yan, Zhe Ren, Yi Xu, Xiaokang Yang
-
-Proceedings of the 25th ACM international conference on Multimedia (ACM MM) 2017
-
-[paper]
-
-
-
-Predicting Human Interaction via Relative Attention Model
-
-Yichao Yan, Bingbing Ni and Xiaokang Yang
-
-International Joint Conference on Artificial Intelligence (IJCAI), 2017
-
-[paper]
-
-
-
-Image Matching via Loopy RNN
-
-Donghao Luo, Bingbing Ni, Yichao Yan and Xiaokang Yang
-
-International Joint Conference on Artificial Intelligence (IJCAI), 2017
-
-[paper]
+Image Matching via Loopy RNN.  Donghao Luo, Bingbing Ni, **Yichao Yan** and Xiaokang Yang.  International Joint Conference on Artificial Intelligence (**IJCAI**), 2017. [paper]
 
 
