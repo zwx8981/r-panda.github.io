@@ -20,8 +20,8 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 ### Updates
 
-- 05/2021  I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
-- 11/2020  I receive the Excellent Doctoral Dissertation Award from CSIG.
+- 05/2021, I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
+- 11/2020, I receive the Excellent Doctoral Dissertation Award from CSIG.
 
 
 
