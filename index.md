@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My Homepages
 
-You can use the [editor on GitHub](https://github.com/daodaofr/daodaofr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Since May. 2021, I am a tenure-track assistant professor at Shanghai Jiao Tong University. I received my PhD degree from Shanghai Jiao Tong University in 2019, supervised by Professor Xiaokang Yang and Professor Bingbing Ni. I received B. E. from Shanghai Jiao Tong University in 2013. I was a research scientist at the Inception Institute of Artificial Intelligence (IIAI) from June 2019 to April 2021.
+
+I am interested in computer vision and machine learning problems. Typically, I am working on (1) Person Re-identification;  (2) Image/video generation (3) Activity prediction; and (4) Face recognition.
 
 ```markdown
 Syntax highlighted code block
