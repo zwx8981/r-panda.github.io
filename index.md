@@ -1,11 +1,15 @@
 ## Welcome to My Homepages
 
-Dr. Yichao Yan 
-Assistant Professor 
-Email: yanyichao91(at)gmail.com, yanyichao(at)sjtu.edu.cn
+**Dr. Yichao Yan**
+
+**Assistant Professor** 
+
+Email: yanyichao(at)sjtu.edu.cn
+
+Office: 5-510, Software building, Shanghai Jiao Tong University.
 
 ### Opening Positions
-We have two positions (two Master) open for 2022 Fall in the AI Institute, Shanghai Jiao Tong University. 
+We have two positions (two Master) open for 2022 Fall in the AI Institute, Shanghai Jiao Tong University. Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email.
 
 ### Biography
 
@@ -14,7 +18,9 @@ Since May. 2021, I am a tenure-track assistant professor at Shanghai Jiao Tong U
 I am interested in computer vision and machine learning problems. Typically, I am working on (1) Person Re-identification;  (2) Image/video generation (3) Activity prediction; and (4) Face recognition.
 
 ### Updates
+
 05/2021  I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
+11/2020  I receive the Excellent Doctoral Dissertation Award from CSIG.
 
 
 
