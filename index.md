@@ -26,7 +26,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Publications
-Anchor-Free Person Search.  **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, Shengcai Liao, Li Liu, Fan Zhu, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021. [paper](https://arxiv.org/abs/2103.11617) [code](https://github.com/daodaofr/AlignPS)
+Anchor-Free Person Search.  **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, Shengcai Liao, Li Liu, Fan Zhu, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021. [[paper]](https://arxiv.org/abs/2103.11617) [[code]](https://github.com/daodaofr/AlignPS)
 
 
 
@@ -38,15 +38,15 @@ Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification.  *
 
 
 
-Learning Context Graph for Person Search.  **Yichao Yan**\*, Qiang Zhang\*, Bingbing Ni, Minghao Xu, and Xiaokang Yang. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019, Oral. [paper]  [code]
+Learning Context Graph for Person Search.  **Yichao Yan**\*, Qiang Zhang\*, Bingbing Ni, Minghao Xu, and Xiaokang Yang. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019, Oral. [paper](https://arxiv.org/abs/1904.01830)  [code](https://github.com/sjtuzq/person_search_gcn)
 
 
 
-Fine-grained Video Captioning via Graph-based Multi-granularity Interaction Learning.  **Yichao Yan**\*, Ning Zhuang\*, Bingbing Ni\*, Jian Zhang, Minghao Xu, Qiang Zhang, Zheng Zhang, Shuo Cheng, Qi Tian, Xiaokang Yang, Wenjun Zhang. IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2019. [paper] 
+Fine-grained Video Captioning via Graph-based Multi-granularity Interaction Learning.  **Yichao Yan**\*, Ning Zhuang\*, Bingbing Ni\*, Jian Zhang, Minghao Xu, Qiang Zhang, Zheng Zhang, Shuo Cheng, Qi Tian, Xiaokang Yang, Wenjun Zhang. IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2019. [paper](https://ieeexplore.ieee.org/document/8865609)
 
 
 
-Person Re-Identification via Recurrent Feature Aggregation.  **Yichao Yan**, Bingbing Ni, Zhichao Song, Chao Ma, Yan Yan and Xiaokang Yang. European Conference on Computer Vision (**ECCV**), 2016. [paper][code][data&model]
+Person Re-Identification via Recurrent Feature Aggregation.  **Yichao Yan**, Bingbing Ni, Zhichao Song, Chao Ma, Yan Yan and Xiaokang Yang. European Conference on Computer Vision (**ECCV**), 2016. [paper](https://drive.google.com/open?id=0ByS8YXR7ycXHU1ZwSXNPWUNtNFU) [code](https://github.com/daodaofr/caffe-re-id) [data&model](https://drive.google.com/open?id=0ByS8YXR7ycXHMGtJSkRLQUVlcmM)
 
 
 
