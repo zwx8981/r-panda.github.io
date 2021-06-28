@@ -15,7 +15,7 @@ We have one PhD (co-supervise with Prof. Xiaokang Yang) and two Master open for 
 
 ### Biography
 
-Since May. 2021, I am a tenure-track assistant professor at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn). I received my PhD degree from Shanghai Jiao Tong University in 2019, supervised by Professor [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en). I received B. E. from Shanghai Jiao Tong University in 2013. I was a research scientist at the [Inception Institute of Artificial Intelligence (IIAI)](https://www.inceptioniai.org/) from June 2019 to April 2021.
+Since May. 2021, I am a tenure-track assistant professor at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn). I received my PhD degree from Shanghai Jiao Tong University in 2019, supervised by Professor [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en). I received M. E. from [École Centrale de Lyon](https://www.ec-lyon.fr/) in France. I received B. E. from Shanghai Jiao Tong University in 2013. I was a research scientist at the [Inception Institute of Artificial Intelligence (IIAI)](https://www.inceptioniai.org/) from June 2019 to April 2021.
 
 I am interested in **computer vision** and machine learning problems. Typically, I am working on (1) Person Re-identification;  (2) Image/video generation (3) Action recognition; and (4) Neural rendering.
 
