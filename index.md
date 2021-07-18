@@ -25,9 +25,11 @@ I am interested in **computer vision** and machine learning problems. Typically,
 - 05/2021, I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
 - 11/2020, I receive the Excellent Doctoral Dissertation Award from CSIG.
 
-
+### Preprints
+Exploring Visual Context for Weakly Supervised Person Search. **Yichao Yan**\*, Jinpeng Li\*, Shengcai Liao, Jie Qin, Bingbing Ni, Xiaokang Yang, Ling Shao. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2106.10506) [[code]](https://github.com/ljpadam/CGPS)
 
 ### Publications
+
 Anchor-Free Person Search.  **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, Shengcai Liao, Li Liu, Fan Zhu, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021. [[paper]](https://arxiv.org/abs/2103.11617) [[code]](https://github.com/daodaofr/AlignPS)
 
 
