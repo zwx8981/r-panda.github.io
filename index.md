@@ -28,6 +28,8 @@ I am interested in **computer vision** and machine learning problems. Typically,
 ### Preprints
 Exploring Visual Context for Weakly Supervised Person Search. **Yichao Yan**\*, Jinpeng Li\*, Shengcai Liao, Jie Qin, Bingbing Ni, Xiaokang Yang, Ling Shao. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2106.10506) [[code]](https://github.com/ljpadam/CGPS)
 
+Local-to-Global Self-Attention in Vision Transformers. Jinpeng Li\*, **Yichao Yan**\*, Shengcai Liao, Xiaokang Yang, Ling Shao. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2107.04735) [[code]](https://github.com/ljpadam/LG-Transformer)
+
 ### Publications
 
 Anchor-Free Person Search.  **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, Shengcai Liao, Li Liu, Fan Zhu, Ling Shao.  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021. [[paper]](https://arxiv.org/abs/2103.11617) [[code]](https://github.com/daodaofr/AlignPS)
