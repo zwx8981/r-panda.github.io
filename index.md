@@ -26,6 +26,9 @@ I am interested in **computer vision** and machine learning problems. Typically,
 - 11/2020, I receive the Excellent Doctoral Dissertation Award from CSIG.
 
 ### Preprints
+Anchor-Free Person Search.  **Yichao Yan**, Jinpeng Li, Jie Qin, Shengcai Liao, Xiaokang Yang. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2109.00211) [[code]](https://github.com/daodaofr/AlignPS)
+
+
 EAN: Event Adaptive Network for Enhanced Action Recognition. Yuan Tian,  **Yichao Yan**, Xiongkuo Min, Guo Lu, Guangtao Zhai, Guodong Guo, Zhiyong Gao. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2107.10771) [[code]](https://github.com/tianyuan168326/EAN-Pytorch)
 
 Exploring Visual Context for Weakly Supervised Person Search. **Yichao Yan**\*, Jinpeng Li\*, Shengcai Liao, Jie Qin, Bingbing Ni, Xiaokang Yang, Ling Shao. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2106.10506) [[code]](https://github.com/ljpadam/CGPS)
