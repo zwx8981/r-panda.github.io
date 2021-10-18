@@ -10,7 +10,7 @@ Office: 5-510, Software building, Shanghai Jiao Tong University.
 
 
 ### Opening Positions
-We have one PhD (co-supervise with Prof. Xiaokang Yang) open for 2022 Fall, in Computer Science, Shanghai Jiao Tong University. Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email.
+We have one PhD (co-supervise with Prof. Xiaokang Yang) and one Master open for 2023 Fall, in Computer Science, Shanghai Jiao Tong University. Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email.
 
 
 ### Biography
