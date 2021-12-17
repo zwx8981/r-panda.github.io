@@ -1,4 +1,4 @@
-## 晏轶超 Dr. Yichao Yan 
+## Dr. Yichao Yan 
 
 ## Assistant Professor, AI Institute, SJTU
 
