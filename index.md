@@ -29,6 +29,8 @@ I am interested in **computer vision** and machine learning problems. Typically,
 - 11/2020, I receive the Excellent Doctoral Dissertation Award from CSIG.
 
 ### Preprints
+DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering. Shunyu Yao, RuiZhe Zhong, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang. arXiv preprint, 2022. [[paper]](https://arxiv.org/abs/2201.00791)
+
 Efficient Person Search: An Anchor-Free Approach.  **Yichao Yan**, Jinpeng Li, Jie Qin, Shengcai Liao, Xiaokang Yang. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2109.00211) [[code]](https://github.com/daodaofr/AlignPS)
 
 
