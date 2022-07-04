@@ -22,7 +22,8 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 ### Updates
 
-- 12/2021, One paper is accepted by AAAI22.
+- 07/2022, One paper is accepted by ECCV 2022.
+- 12/2021, One paper is accepted by AAAI 2022.
 - 12/2021, I receive Huawei-MindSpore学术奖励基金.
 - 09/2021, I serve as an SPC member for AAAI22.
 - 05/2021, I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
