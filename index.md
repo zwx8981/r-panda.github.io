@@ -21,7 +21,8 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates
-
+- 07/2022, One paper is accepted by IJCV.
+- 07/2022, I receive CCF-阿里巴巴创新研究计划青年科学基金.
 - 07/2022, One paper is accepted by ECCV 2022.
 - 12/2021, One paper is accepted by AAAI 2022.
 - 12/2021, I receive Huawei-MindSpore学术奖励基金.
@@ -35,12 +36,13 @@ DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes 
 Efficient Person Search: An Anchor-Free Approach.  **Yichao Yan**, Jinpeng Li, Jie Qin, Shengcai Liao, Xiaokang Yang. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2109.00211) [[code]](https://github.com/daodaofr/AlignPS)
 
 
-EAN: Event Adaptive Network for Enhanced Action Recognition. Yuan Tian,  **Yichao Yan**, Xiongkuo Min, Guo Lu, Guangtao Zhai, Guodong Guo, Zhiyong Gao. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2107.10771) [[code]](https://github.com/tianyuan168326/EAN-Pytorch)
-
-
 Local-to-Global Self-Attention in Vision Transformers. Jinpeng Li\*, **Yichao Yan**\*, Shengcai Liao, Xiaokang Yang, Ling Shao. arXiv preprint, 2021. [[paper]](https://arxiv.org/abs/2107.04735) [[code]](https://github.com/ljpadam/LG-Transformer)
 
 ### Publications
+
+EAN: Event Adaptive Network for Enhanced Action Recognition. Yuan Tian,  **Yichao Yan**, Xiongkuo Min, Guo Lu, Guangtao Zhai, Guodong Guo, Zhiyong Gao. International Jouranl of Computer Vision (**IJCV**), 2022. [[paper]](https://arxiv.org/abs/2107.10771) [[code]](https://github.com/tianyuan168326/EAN-Pytorch)
+
+Domain Adaptive Person Search. Junjie Li, **Yichao Yan**, Guanshuo Wang, Fufu Yu, Qiong Jia, Shouhong Ding. European Conference on Computer Vision (**ECCV Oral**), 2022 . [[paper](https://arxiv.org/pdf/2207.11898.pdf)]  [[code](https://github.com/caposerenity/DAPS)]
 
 Exploring Visual Context for Weakly Supervised Person Search. **Yichao Yan**\*, Jinpeng Li\*, Shengcai Liao, Jie Qin, Bingbing Ni, Xiaokang Yang, Ling Shao. AAAI Conference on Artificial Intelligence (**AAAI**), 2022. [[paper]](https://arxiv.org/abs/2106.10506) [[code]](https://github.com/ljpadam/CGPS)
 
