@@ -40,7 +40,7 @@ Local-to-Global Self-Attention in Vision Transformers. Jinpeng Li\*, **Yichao Ya
 
 ### Publications
 
-EAN: Event Adaptive Network for Enhanced Action Recognition. Yuan Tian,  **Yichao Yan**, Xiongkuo Min, Guo Lu, Guangtao Zhai, Guodong Guo, Zhiyong Gao. International Jouranl of Computer Vision (**IJCV**), 2022. [[paper]](https://arxiv.org/abs/2107.10771) [[code]](https://github.com/tianyuan168326/EAN-Pytorch)
+EAN: Event Adaptive Network for Enhanced Action Recognition. Yuan Tian,  **Yichao Yan**, Xiongkuo Min, Guo Lu, Guangtao Zhai, Guodong Guo, Zhiyong Gao. International Journal of Computer Vision (**IJCV**), 2022. [[paper]](https://arxiv.org/abs/2107.10771) [[code]](https://github.com/tianyuan168326/EAN-Pytorch)
 
 Domain Adaptive Person Search. Junjie Li, **Yichao Yan**, Guanshuo Wang, Fufu Yu, Qiong Jia, Shouhong Ding. European Conference on Computer Vision (**ECCV Oral**), 2022 . [[paper](https://arxiv.org/pdf/2207.11898.pdf)]  [[code](https://github.com/caposerenity/DAPS)]
 
