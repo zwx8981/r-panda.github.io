@@ -34,7 +34,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering.  
 *Shunyu Yao, RuiZhe Zhong, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang.  
 arXiv preprint, 2022.  
-[[paper]](https://arxiv.org/abs/2201.00791) [[project page]](https://zerzerzerz.github.io/DFA-NeRF)
+[[paper]](https://arxiv.org/abs/2201.00791) [[project page]](https://zerzerzerz.github.io/DFA-NeRF)*
 
 Efficient Person Search: An Anchor-Free Approach.  
 **Yichao Yan**, Jinpeng Li, Jie Qin, Shengcai Liao, Xiaokang Yang.  
