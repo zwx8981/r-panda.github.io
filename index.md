@@ -31,38 +31,46 @@ I am interested in **computer vision** and machine learning problems. Typically,
 - 11/2020, I receive the Excellent Doctoral Dissertation Award from CSIG.
 
 ### Preprints
-DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering.  [[paper]](https://arxiv.org/abs/2201.00791) [[project page]](https://zerzerzerz.github.io/DFA-NeRF)  
+DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering.  
 Shunyu Yao, RuiZhe Zhong, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang.  
-arXiv preprint, 2022. 
+arXiv preprint, 2022.  
+[[paper]](https://arxiv.org/abs/2201.00791) [[project page]](https://zerzerzerz.github.io/DFA-NeRF)
 
-Efficient Person Search: An Anchor-Free Approach.  [[paper]](https://arxiv.org/abs/2109.00211) [[code]](https://github.com/daodaofr/AlignPS)  
+Efficient Person Search: An Anchor-Free Approach.  
 **Yichao Yan**, Jinpeng Li, Jie Qin, Shengcai Liao, Xiaokang Yang.  
-arXiv preprint, 2021. 
+arXiv preprint, 2021.  
+[[paper]](https://arxiv.org/abs/2109.00211) [[code]](https://github.com/daodaofr/AlignPS)  
 
 
-Local-to-Global Self-Attention in Vision Transformers.  [[paper]](https://arxiv.org/abs/2107.04735) [[code]](https://github.com/ljpadam/LG-Transformer)  
+Local-to-Global Self-Attention in Vision Transformers.    
 Jinpeng Li\*, **Yichao Yan**\*, Shengcai Liao, Xiaokang Yang, Ling Shao.  
-arXiv preprint, 2021. 
+arXiv preprint, 2021.  
+[[paper]](https://arxiv.org/abs/2107.04735) [[code]](https://github.com/ljpadam/LG-Transformer)
 
 ### Publications
 
-EAN: Event Adaptive Network for Enhanced Action Recognition.  [[paper]](https://arxiv.org/abs/2107.10771) [[code]](https://github.com/tianyuan168326/EAN-Pytorch)  
+EAN: Event Adaptive Network for Enhanced Action Recognition.  
 Yuan Tian,  **Yichao Yan**, Xiongkuo Min, Guo Lu, Guangtao Zhai, Guodong Guo, Zhiyong Gao.  
-International Journal of Computer Vision (**IJCV**), 2022. 
+International Journal of Computer Vision (**IJCV**), 2022.  
+[[paper]](https://arxiv.org/abs/2107.10771) [[code]](https://github.com/tianyuan168326/EAN-Pytorch)  
 
-Domain Adaptive Person Search.  (https://arxiv.org/pdf/2207.11898.pdf)]  [[code](https://github.com/caposerenity/DAPS)]  
+
+Domain Adaptive Person Search.  
 Junjie Li, **Yichao Yan**, Guanshuo Wang, Fufu Yu, Qiong Jia, Shouhong Ding.  
-European Conference on Computer Vision (**ECCV Oral**), 2022 . [[paper]
+European Conference on Computer Vision (**ECCV Oral**), 2022.   
+[[paper](https://arxiv.org/pdf/2207.11898.pdf)]  [[code](https://github.com/caposerenity/DAPS)]  
 
-Exploring Visual Context for Weakly Supervised Person Search.  [[paper]](https://arxiv.org/abs/2106.10506) [[code]](https://github.com/ljpadam/CGPS)  
+
+Exploring Visual Context for Weakly Supervised Person Search.  
 **Yichao Yan**\*, Jinpeng Li\*, Shengcai Liao, Jie Qin, Bingbing Ni, Xiaokang Yang, Ling Shao.  
-AAAI Conference on Artificial Intelligence (**AAAI**), 2022. 
+AAAI Conference on Artificial Intelligence (**AAAI**), 2022.  
+[[paper]](https://arxiv.org/abs/2106.10506) [[code]](https://github.com/ljpadam/CGPS)  
 
 
-Anchor-Free Person Search.  [[paper]](https://arxiv.org/abs/2103.11617) [[code]](https://github.com/daodaofr/AlignPS)  
+Anchor-Free Person Search.  
 **Yichao Yan**\*, Jinpeng Li\*, Jie Qin, Song Bai, Shengcai Liao, Li Liu, Fan Zhu, Ling Shao.  
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021. 
-
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021.  
+[[paper]](https://arxiv.org/abs/2103.11617) [[code]](https://github.com/daodaofr/AlignPS)  
 
 
 Learning Multi-Attention Context Graph for Group-Based Re-Identification.  [[paper]](https://arxiv.org/abs/2104.14236)  [[code]](https://github.com/daodaofr/group_reid)  
@@ -70,21 +78,22 @@ Learning Multi-Attention Context Graph for Group-Based Re-Identification.  [[pap
 IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2020. 
 
 
-
-Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification.  [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Learning_Multi-Granular_Hypergraphs_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)  [[code]](https://github.com/daodaofr/hypergraph_reid)  
+Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification.   
 **Yichao Yan**\*, Jie Qin\*, Jiaxin Chen, Li Liu, Fan Zhu, Ying Tai, Ling Shao.  
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020. 
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020.  
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Learning_Multi-Granular_Hypergraphs_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)  [[code]](https://github.com/daodaofr/hypergraph_reid) 
 
 
-Learning Context Graph for Person Search.  [[paper]](https://arxiv.org/abs/1904.01830)  [[code]](https://github.com/sjtuzq/person_search_gcn)
+Learning Context Graph for Person Search.  
 **Yichao Yan**\*, Qiang Zhang\*, Bingbing Ni, Minghao Xu, and Xiaokang Yang.  
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019, Oral. 
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019, Oral.  
+[[paper]](https://arxiv.org/abs/1904.01830)  [[code]](https://github.com/sjtuzq/person_search_gcn)
 
 
-
-Fine-grained Video Captioning via Graph-based Multi-granularity Interaction Learning.  [[paper]](https://ieeexplore.ieee.org/document/8865609)
+Fine-grained Video Captioning via Graph-based Multi-granularity Interaction Learning.  
 **Yichao Yan**\*, Ning Zhuang\*, Bingbing Ni\*, Jian Zhang, Minghao Xu, Qiang Zhang, Zheng Zhang, Shuo Cheng, Qi Tian, Xiaokang Yang, Wenjun Zhang.  
-IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2019. 
+IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**) 2019.  
+[[paper]](https://ieeexplore.ieee.org/document/8865609)
 
 
 
