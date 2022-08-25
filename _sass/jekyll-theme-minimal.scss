@@ -101,7 +101,8 @@ th {
 }
 
 img {
-  max-width:100%;
+//   max-width:100%;
+  max-width:80%;
 }
 
 kbd {
@@ -119,7 +120,8 @@ kbd {
 }
 
 header {
-  width:170px;
+//   width:170px;
+  width:100px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -187,7 +189,7 @@ strong {
 
 section {
 //   width:600px;
-  width:800px;
+  width:700px;
   float:right;
   padding-bottom:50px;
 }
