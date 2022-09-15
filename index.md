@@ -52,8 +52,8 @@ arXiv preprint, 2021.*
 
 * CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation.  
 *Yicong Peng, **Yichao Yan**, Shengqi Liu, Yuhao Cheng, Shanyan Guan, Bowen Pan, Guangtao Zhai, Xiaokang Yang.  
-Conference on Neural Information Processing Systems (**NeurIPS**), 2022.*
-[[paper coming soon]]
+Conference on Neural Information Processing Systems (**NeurIPS**), 2022.*   
+[[paper coming soon]]()
 
 
 * EAN: Event Adaptive Network for Enhanced Action Recognition.  
