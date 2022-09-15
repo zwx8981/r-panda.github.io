@@ -50,6 +50,12 @@ arXiv preprint, 2021.*
 
 ### Publications
 
+* CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation.  
+*Yicong Peng, **Yichao Yan**, Shengqi Liu, Yuhao Cheng, Shanyan Guan, Bowen Pan, Guangtao Zhai, Xiaokang Yang.  
+Conference on Neural Information Processing Systems (**INeurIPS**), 2022.*
+[[paper coming soon]]
+
+
 * EAN: Event Adaptive Network for Enhanced Action Recognition.  
 *Yuan Tian,  **Yichao Yan**, Xiongkuo Min, Guo Lu, Guangtao Zhai, Guodong Guo, Zhiyong Gao.  
 International Journal of Computer Vision (**IJCV**), 2022.*  
