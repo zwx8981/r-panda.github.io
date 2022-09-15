@@ -21,6 +21,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates
+- 09/2022, One paper is accepted by NeurIPS 2022.
 - 07/2022, One paper is accepted by IJCV.
 - 07/2022, I receive CCF-阿里巴巴创新研究计划青年科学基金.
 - 07/2022, One paper is accepted by ECCV 2022.
