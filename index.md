@@ -21,6 +21,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates
+- 02/2023, One paper is accepted by TIP.
 - 09/2022, One paper is accepted by NeurIPS 2022.
 - 07/2022, One paper is accepted by IJCV.
 - 07/2022, I receive CCF-阿里巴巴创新研究计划青年科学基金.
@@ -49,6 +50,11 @@ arXiv preprint, 2021.*
 [[paper]](https://arxiv.org/abs/2107.04735) [[code]](https://github.com/ljpadam/LG-Transformer)
 
 ### Publications
+
+* CLSA: A Contrastive Learning Framework with Selective Aggregation for Video Rescaling.  
+*Yuan Tian, **Yichao Yan**, Guangtao Zhai, Li Chen, Zhiyong Gao.  
+IEEE Transactions on Image Processing (**TIP**), 2023.*  
+[[paper]](https://ieeexplore.ieee.org/document/10042234)  
 
 * CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation.  
 *Yicong Peng, **Yichao Yan**, Shengqi Liu, Yuhao Cheng, Shanyan Guan, Bowen Pan, Guangtao Zhai, Xiaokang Yang.  
