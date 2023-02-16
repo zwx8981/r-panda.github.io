@@ -21,7 +21,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates
-- 02/2023, One paper is accepted by TIP.
+- 02/2023, One paper is accepted by TIP, one paper is accepted by IJCV.
 - 09/2022, One paper is accepted by NeurIPS 2022.
 - 07/2022, One paper is accepted by IJCV.
 - 07/2022, I receive CCF-阿里巴巴创新研究计划青年科学基金.
@@ -38,11 +38,6 @@ I am interested in **computer vision** and machine learning problems. Typically,
 arXiv preprint, 2022.*  
 [[paper]](https://arxiv.org/abs/2201.00791) [[project page]](https://zerzerzerz.github.io/DFA-NeRF)
 
-* Efficient Person Search: An Anchor-Free Approach.  
-***Yichao Yan**, Jinpeng Li, Jie Qin, Shengcai Liao, Xiaokang Yang.  
-arXiv preprint, 2021.*  
-[[paper]](https://arxiv.org/abs/2109.00211) [[code]](https://github.com/daodaofr/AlignPS)  
-
 
 * Local-to-Global Self-Attention in Vision Transformers.    
 *Jinpeng Li\*, **Yichao Yan**\*, Shengcai Liao, Xiaokang Yang, Ling Shao.  
@@ -50,6 +45,11 @@ arXiv preprint, 2021.*
 [[paper]](https://arxiv.org/abs/2107.04735) [[code]](https://github.com/ljpadam/LG-Transformer)
 
 ### Publications
+
+* Efficient Person Search: An Anchor-Free Approach.  
+***Yichao Yan**, Jinpeng Li, Jie Qin, Shengcai Liao, Xiaokang Yang.  
+International Journal of Computer Vision (**IJCV**), 2023.*  
+[[paper]](https://arxiv.org/abs/2109.00211) [[code]](https://github.com/daodaofr/AlignPS)  
 
 * CLSA: A Contrastive Learning Framework with Selective Aggregation for Video Rescaling.  
 *Yuan Tian, **Yichao Yan**, Guangtao Zhai, Li Chen, Zhiyong Gao.  
