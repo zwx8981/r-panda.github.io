@@ -21,6 +21,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates
+- 03/2023，Three papers on 3D digital human generation/reconstruction are accepted by CVPR 2023.
 - 02/2023, One paper is accepted by TIP, one paper is accepted by IJCV.
 - 09/2022, One paper is accepted by NeurIPS 2022.
 - 07/2022, One paper is accepted by IJCV.
