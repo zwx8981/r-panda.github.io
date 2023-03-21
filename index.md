@@ -50,7 +50,7 @@ arXiv preprint, 2021.*
 * Efficient Person Search: An Anchor-Free Approach.  
 ***Yichao Yan**, Jinpeng Li, Jie Qin, Shengcai Liao, Xiaokang Yang.  
 International Journal of Computer Vision (**IJCV**), 2023.*  
-[[paper]](https://arxiv.org/abs/2109.00211) [[code]](https://github.com/daodaofr/AlignPS)  
+[[paper]](https://link.springer.com/article/10.1007/s11263-023-01772-3) [[code]](https://github.com/daodaofr/AlignPS)  
 
 * CLSA: A Contrastive Learning Framework with Selective Aggregation for Video Rescaling.  
 *Yuan Tian, **Yichao Yan**, Guangtao Zhai, Li Chen, Zhiyong Gao.  
