@@ -49,7 +49,7 @@ arXiv preprint, 2021.*
 
 * GANHead: Towards Generative Animatable Neural Head Avatars.  
 *Sijing Wu, **Yichao Yan**, Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, XiaoBo Li, Guangtao Zhai.  
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.(accepted) *  
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.(accepted)*  
 [[project]](https://wsj-sjtu.github.io/GANHead/) 
 
 * Efficient Person Search: An Anchor-Free Approach.  
