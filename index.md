@@ -52,6 +52,12 @@ arXiv preprint, 2021.*
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.(accepted)*  
 [[project]](https://wsj-sjtu.github.io/GANHead/) 
 
+* StyleVR: Stylizing Character Animations with Normalizing Flows.  
+*Bin Ji, Ye Pan, **Yichao Yan**, Ruizhao Chen, Xiaokang Yang.  
+IEEE Transactions on Visualization and Computer Graphics(**TVCG**), 2023.*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10076832) 
+
+
 * Efficient Person Search: An Anchor-Free Approach.  
 ***Yichao Yan**, Jinpeng Li, Jie Qin, Shengcai Liao, Xiaokang Yang.  
 International Journal of Computer Vision (**IJCV**), 2023.*  
