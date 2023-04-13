@@ -34,6 +34,12 @@ I am interested in **computer vision** and machine learning problems. Typically,
 - 11/2020, I receive the Excellent Doctoral Dissertation Award from CSIG.
 
 ### Preprints
+
+* Head3D: Complete 3D Head Generation via Tri-plane Feature Distillation.  
+*Yuhao Cheng, **Yichao Yan**, Wenhan Zhu, Ye Pan, Bowen Pan, Xiaokang Yang.  
+arXiv preprint, 2023.*  
+[[paper]](https://arxiv.org/abs/2303.15892)
+
 * DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering.  
 *Shunyu Yao, RuiZhe Zhong, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang.  
 arXiv preprint, 2022.*  
