@@ -56,7 +56,7 @@ arXiv preprint, 2021.*
 * GANHead: Towards Generative Animatable Neural Head Avatars.  
 *Sijing Wu, **Yichao Yan**, Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, XiaoBo Li, Guangtao Zhai.  
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.(accepted)*  
-[[project]](https://wsj-sjtu.github.io/GANHead/) 
+[[project]](https://wsj-sjtu.github.io/GANHead/) [[paper]](https://arxiv.org/abs/2304.03950) 
 
 * StyleVR: Stylizing Character Animations with Normalizing Flows.  
 *Bin Ji, Ye Pan, **Yichao Yan**, Ruizhao Chen, Xiaokang Yang.  
