@@ -56,7 +56,7 @@ arXiv preprint, 2021.*
 * A survey on generative 3D digital humans based on neural networks: representation, rendering and learning. (In Chinese)  
 *基于神经网络的生成式三维数字人研究综述:表示、渲染与学习.  
 ***Yichao Yan***, Yuhao Cheng, Zhuo Chen, Yicong Peng, Sijing Wu, Weitian Zhang, Junjie Li, Yixuan Li, Jingnan Gao, Weixia Zhang, Guangtao Zhai, Xiaokang Yang.  
-中国科学：信息科学，SCIENTIA SINICA Informationis, (2023)*
+中国科学：信息科学，SCIENTIA SINICA Informationis, (2023)*  
 [[paper]](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0319;JSESSIONID=af939365-8f15-4f4d-8515-90c44941e4a6)
 
 * GANHead: Towards Generative Animatable Neural Head Avatars.  
