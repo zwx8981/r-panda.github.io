@@ -53,7 +53,7 @@ arXiv preprint, 2021.*
 
 ### Publications
 
-* A survey on generative 3D digital humans based on neural networks: representation, rendering and learning.  
+* A survey on generative 3D digital humans based on neural networks: representation, rendering and learning. (In Chinese)  
 *基于神经网络的生成式三维数字人研究综述:表示、渲染与学习.  
 ***Yichao Yan***, Yuhao Cheng, Zhuo Chen, Yicong Peng, Sijing Wu, Weitian Zhang, Junjie Li, Yixuan Li, Jingnan Gao, Weixia Zhang, Guangtao Zhai, Xiaokang Yang.  
 中国科学：信息科学，SCIENTIA SINICA Informationis, (2023)*
