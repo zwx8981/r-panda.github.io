@@ -35,6 +35,11 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 ### Preprints
 
+* HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks.  
+*Zhuo Chen, Xudong Xu, **Yichao Yan**, Ye Pan, Wenhan Zhu, Wayne Wu, Bo Dai, Xiaokang Yang.  
+arXiv preprint, 2023.*  
+[[paper]](https://arxiv.org/abs/2304.09463)
+
 * Head3D: Complete 3D Head Generation via Tri-plane Feature Distillation.  
 *Yuhao Cheng, **Yichao Yan**, Wenhan Zhu, Ye Pan, Bowen Pan, Xiaokang Yang.  
 arXiv preprint, 2023.*  
@@ -58,6 +63,11 @@ arXiv preprint, 2021.*
 ***Yichao Yan***, Yuhao Cheng, Zhuo Chen, Yicong Peng, Sijing Wu, Weitian Zhang, Junjie Li, Yixuan Li, Jingnan Gao, Weixia Zhang, Guangtao Zhai, Xiaokang Yang.  
 中国科学：信息科学，SCIENTIA SINICA Informationis, (2023)*  
 [[paper]](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0319;JSESSIONID=af939365-8f15-4f4d-8515-90c44941e4a6)
+
+* 行人再识别技术研究进展综述.  
+*张永飞,杨航远,张雨佳,豆朝鹏,廖胜才,郑伟诗,张史梁,叶茫,**晏轶超**,李俊杰,王生进.  
+中国图象图形学报, 2023.*  
+[[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20230227155118001&flag=2&file_no=202301130000003&journal_id=jig) 
 
 * GANHead: Towards Generative Animatable Neural Head Avatars.  
 *Sijing Wu, **Yichao Yan**, Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, XiaoBo Li, Guangtao Zhai.  
