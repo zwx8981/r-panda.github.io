@@ -10,7 +10,7 @@ Office: 5-510, Software building, Shanghai Jiao Tong University.
 
 ### Facilities
 We have a light stage and several motion capture devices.
-![image](https://github.com/daodaofr/daodaofr.github.io/blob/main/facility.png)
+![image](facility.png)
 
 ### Opening Positions
 Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email.
