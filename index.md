@@ -73,6 +73,11 @@ arXiv preprint, 2021.*
 中国图象图形学报, 2023.*  
 [[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20230227155118001&flag=2&file_no=202301130000003&journal_id=jig) 
 
+* Improving Fairness in Facial Albedo Estimation via Visual-Textual Cues.  
+*YXingyu Ren, Jiankang Deng, Chao Ma, **Yichao Yan**, Xiaokang Yang.  
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Ren_Improving_Fairness_in_Facial_Albedo_Estimation_via_Visual-Textual_Cues_CVPR_2023_paper.html) 
+
 * 3D-Aware Face Swapping.  
 *Yixuan Li, Chao Ma, **Yichao Yan**, Wenhan Zhu, Xiaokang Yang.  
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*  
@@ -80,7 +85,7 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (*
 
 * GANHead: Towards Generative Animatable Neural Head Avatars.  
 *Sijing Wu, **Yichao Yan**, Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, XiaoBo Li, Guangtao Zhai.  
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.(accepted)*  
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*  
 [[project]](https://wsj-sjtu.github.io/GANHead/) [[paper]](https://arxiv.org/abs/2304.03950) 
 
 * StyleVR: Stylizing Character Animations with Normalizing Flows.  
