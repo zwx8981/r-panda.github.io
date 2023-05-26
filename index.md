@@ -73,6 +73,11 @@ arXiv preprint, 2021.*
 中国图象图形学报, 2023.*  
 [[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20230227155118001&flag=2&file_no=202301130000003&journal_id=jig) 
 
+* 3D-Aware Face Swapping.  
+*Yixuan Li, Chao Ma, **Yichao Yan**, Wenhan Zhu, Xiaokang Yang.  
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*  
+[[project]](https://lyx0208.github.io/3dSwap) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_3D-Aware_Face_Swapping_CVPR_2023_paper.html) 
+
 * GANHead: Towards Generative Animatable Neural Head Avatars.  
 *Sijing Wu, **Yichao Yan**, Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, XiaoBo Li, Guangtao Zhai.  
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.(accepted)*  
