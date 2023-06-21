@@ -23,7 +23,7 @@ Since May. 2021, I am a tenure-track assistant professor at [Shanghai Jiao Tong 
 I am interested in **computer vision** and machine learning problems. Typically, I am working on (1） Digital Human Generation/Editing/Rendering (2) Person Re-identification  (3) Video Analysis
 
 
-### Updates
+### Updates   
 - 06/2023, We win the championship of the 2023 Ego4D Challenge in the Episodic memory: PACO Zero-Shot track.
 - 04/2023, Our survey paper on digital human generation is accepted by SCIENTIA SINICA Informationis.
 - 03/2023, Three papers on 3D digital human generation/reconstruction are accepted by CVPR 2023.
