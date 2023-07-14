@@ -24,6 +24,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates   
+- 07/2023, One paper on human action generation is accepted by ICCV 2023.
 - 06/2023, We win the championship of the 2023 Ego4D Challenge in the Episodic memory: PACO Zero-Shot track.
 - 04/2023, Our survey paper on digital human generation is accepted by SCIENTIA SINICA Informationis.
 - 03/2023, Three papers on 3D digital human generation/reconstruction are accepted by CVPR 2023.
@@ -62,6 +63,11 @@ arXiv preprint, 2021.*
 [[paper]](https://arxiv.org/abs/2107.04735) [[code]](https://github.com/ljpadam/LG-Transformer)
 
 ### Publications
+
+* ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation.  
+*Liang Xu, Ziyang Song, Dongliang Wang, Jing Su, Zhicheng Fang, Chenjing Ding, Weihao Gan, **Yichao Yan**, Xin Jin, Xiaokang Yang, Wenjun Zeng, Wei Wu.  
+Accepted by International Conference on Computer Vision (**ICCV**), 2023.*  
+[[paper]](https://arxiv.org/abs/2203.07706)
 
 * A survey on generative 3D digital humans based on neural networks: representation, rendering and learning. (In Chinese)  
 基于神经网络的生成式三维数字人研究综述:表示、渲染与学习.  
