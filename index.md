@@ -67,7 +67,7 @@ arXiv preprint, 2021.*
 * ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation.  
 *Liang Xu, Ziyang Song, Dongliang Wang, Jing Su, Zhicheng Fang, Chenjing Ding, Weihao Gan, **Yichao Yan**, Xin Jin, Xiaokang Yang, Wenjun Zeng, Wei Wu.  
 Accepted by International Conference on Computer Vision (**ICCV**), 2023.*  
-[[paper]](https://arxiv.org/abs/2203.07706)
+[[paper]](https://arxiv.org/abs/2203.07706) [[project]](https://liangxuy.github.io/actformer/)
 
 * A survey on generative 3D digital humans based on neural networks: representation, rendering and learning. (In Chinese)  
 基于神经网络的生成式三维数字人研究综述:表示、渲染与学习.  
