@@ -1,4 +1,4 @@
-## Dr. Yichao Yan 
+## Yichao Yan 
 
 ## Assistant Professor, AI Institute, Shanghai Jiao Tong University
 
