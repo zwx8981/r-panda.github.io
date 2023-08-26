@@ -1,6 +1,6 @@
 ## Dr. Yichao Yan 
 
-## Assistant Professor, AI Institute, SJTU
+## Assistant Professor, AI Institute, Shanghai Jiao Tong University
 
 [Google Scholar](https://scholar.google.com/citations?user=ZPHMMRkAAAAJ&hl=zh-CN)  [Github](https://github.com/daodaofr)
 
