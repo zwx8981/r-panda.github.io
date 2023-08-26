@@ -83,17 +83,17 @@ Accepted by International Conference on Computer Vision (**ICCV**), 2023.*
 * Improving Fairness in Facial Albedo Estimation via Visual-Textual Cues.  
 *YXingyu Ren, Jiankang Deng, Chao Ma, **Yichao Yan**, Xiaokang Yang.  
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*  
-[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Ren_Improving_Fairness_in_Facial_Albedo_Estimation_via_Visual-Textual_Cues_CVPR_2023_paper.html) 
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Ren_Improving_Fairness_in_Facial_Albedo_Estimation_via_Visual-Textual_Cues_CVPR_2023_paper.html) [[project]](https://xingyuren-cn.github.io/id2albedo/)  
 
 * 3D-Aware Face Swapping.  
 *Yixuan Li, Chao Ma, **Yichao Yan**, Wenhan Zhu, Xiaokang Yang.  
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*  
-[[project]](https://lyx0208.github.io/3dSwap) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_3D-Aware_Face_Swapping_CVPR_2023_paper.html) 
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_3D-Aware_Face_Swapping_CVPR_2023_paper.html) [[project]](https://lyx0208.github.io/3dSwap)  
 
 * GANHead: Towards Generative Animatable Neural Head Avatars.  
 *Sijing Wu, **Yichao Yan**, Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, XiaoBo Li, Guangtao Zhai.  
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*  
-[[project]](https://wsj-sjtu.github.io/GANHead/) [[paper]](https://arxiv.org/abs/2304.03950) 
+[[paper]](https://arxiv.org/abs/2304.03950) [[project]](https://wsj-sjtu.github.io/GANHead/)  
 
 * StyleVR: Stylizing Character Animations with Normalizing Flows.  
 *Bin Ji, Ye Pan, **Yichao Yan**, Ruizhao Chen, Xiaokang Yang.  
@@ -114,7 +114,7 @@ IEEE Transactions on Image Processing (**TIP**), 2023.*
 * CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation.  
 *Yicong Peng, **Yichao Yan**, Shengqi Liu, Yuhao Cheng, Shanyan Guan, Bowen Pan, Guangtao Zhai, Xiaokang Yang.  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2022.*   
-[[paper]](https://openreview.net/forum?id=kUnHCGiILeU) [[project page]](https://pengyicong.github.io/CageNeRF/)  
+[[paper]](https://openreview.net/forum?id=kUnHCGiILeU) [[project]](https://pengyicong.github.io/CageNeRF/)  
 
 
 * EAN: Event Adaptive Network for Enhanced Action Recognition.  
