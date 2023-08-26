@@ -60,7 +60,7 @@ arXiv preprint, 2022.*
 * Local-to-Global Self-Attention in Vision Transformers.    
 *Jinpeng Li\*, **Yichao Yan**\*, Shengcai Liao, Xiaokang Yang, Ling Shao.  
 arXiv preprint, 2021.*  
-[[paper]](https://arxiv.org/abs/2107.04735) [[code]](https://github.com/ljpadam/LG-Transformer)
+[[paper]](https://arxiv.org/abs/2107.04735)  
 
 ### Publications
 
