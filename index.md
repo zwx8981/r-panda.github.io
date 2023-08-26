@@ -87,7 +87,7 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (*
 
 * 3D-Aware Face Swapping.  
 *Yixuan Li, Chao Ma, **Yichao Yan**, Wenhan Zhu, Xiaokang Yang.  
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_3D-Aware_Face_Swapping_CVPR_2023_paper.html) [[project]](https://lyx0208.github.io/3dSwap)  
 
 * GANHead: Towards Generative Animatable Neural Head Avatars.  
