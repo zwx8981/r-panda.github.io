@@ -24,7 +24,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates   
-- 09/2023, We will organize a workshop "[[AI for Digital Human]](https://digitalhumanworkshop.github.io/)" on AAAI 2024.
+- 09/2023, We will organize a workshop "[AI for Digital Human](https://digitalhumanworkshop.github.io/)" on AAAI 2024.
 - 09/2023, One paper on NeRF-based visual localization is accepted by NeurIPS 2023.
 - 07/2023, One paper on human action generation is accepted by ICCV 2023.
 - 06/2023, We win the championship of the 2023 Ego4D Challenge in the Episodic memory: PACO Zero-Shot track.
