@@ -13,7 +13,7 @@ We have a light stage and several motion capture devices.
 ![image](facility.png)
 
 ### Opening Positions
-Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email. （2024年入学研究生还有一个计算机专业的专硕名额，如已经通过夏令营欢迎联系）
+Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email. （<font color=red>2024年入学研究生还有一个计算机专业的专硕名额，如已经通过夏令营欢迎联系</font>）
 
 
 ### Biography
