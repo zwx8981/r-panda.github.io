@@ -13,7 +13,7 @@ We have a light stage and several motion capture devices.
 ![image](facility.png)
 
 ### Opening Positions
-Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email.
+Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email. （2024年入学研究生还有一个计算机专业的专硕名额，如已经通过夏令营欢迎联系）
 
 
 ### Biography
@@ -24,6 +24,8 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates   
+- 09/2023, We will organize a workshop "[[AI for Digital Human]](https://digitalhumanworkshop.github.io/)" on AAAI 2024.
+- 09/2023, One paper on NeRF-based visual localization is accepted by NeurIPS 2023.
 - 07/2023, One paper on human action generation is accepted by ICCV 2023.
 - 06/2023, We win the championship of the 2023 Ego4D Challenge in the Episodic memory: PACO Zero-Shot track.
 - 04/2023, Our survey paper on digital human generation is accepted by SCIENTIA SINICA Informationis.
