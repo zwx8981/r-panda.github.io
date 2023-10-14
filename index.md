@@ -75,7 +75,7 @@ Accepted by International Conference on Computer Vision (**ICCV**), 2023.*
 基于神经网络的生成式三维数字人研究综述:表示、渲染与学习.  
 ***Yichao Yan**, Yuhao Cheng, Zhuo Chen, Yicong Peng, Sijing Wu, Weitian Zhang, Junjie Li, Yixuan Li, Jingnan Gao, Weixia Zhang, Guangtao Zhai, Xiaokang Yang.  
 中国科学：信息科学，SCIENTIA SINICA Informationis, (2023)*  
-[[paper]](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0319;JSESSIONID=af939365-8f15-4f4d-8515-90c44941e4a6)
+[[paper]](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0319;JSESSIONID=d57dd3fc-fb60-482c-b2d6-358d4c66cace)
 
 * 行人再识别技术研究进展综述.  
 *张永飞,杨航远,张雨佳,豆朝鹏,廖胜才,郑伟诗,张史梁,叶茫,**晏轶超**,李俊杰,王生进.  
