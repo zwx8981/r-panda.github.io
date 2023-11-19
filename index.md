@@ -66,9 +66,14 @@ arXiv preprint, 2021.*
 
 ### Publications
 
+* NeRF-IBVS: Visual Servo Based on NeRF for Visual Localization and Navigation.  
+*Yuanze Wang, **Yichao Yan**, Dianxi Shi, Wenhan Zhu, Jianqiang Xia, Jianqiang Xia, Tan Jeff, Songchang Jin, Ke Gao, Xiaobo Li, Xiaokang Yang.  
+Conference on Neural Information Processing Systems (**NeurIPS**), 2023.*  
+[[paper]](https://openreview.net/forum?id=9pLaDXX8m3)
+
 * ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation.  
 *Liang Xu, Ziyang Song, Dongliang Wang, Jing Su, Zhicheng Fang, Chenjing Ding, Weihao Gan, **Yichao Yan**, Xin Jin, Xiaokang Yang, Wenjun Zeng, Wei Wu.  
-Accepted by International Conference on Computer Vision (**ICCV**), 2023.*  
+International Conference on Computer Vision (**ICCV**), 2023.*  
 [[paper]](https://arxiv.org/abs/2203.07706) [[project]](https://liangxuy.github.io/actformer/)
 
 * A survey on generative 3D digital humans based on neural networks: representation, rendering and learning. (In Chinese)  
