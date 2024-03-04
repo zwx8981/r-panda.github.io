@@ -24,8 +24,9 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates   
-- 02/2023, Four papers on human action generation, face reconstruction, and editing are accepted by CVPR 2024.
+- 02/2023, Four papers on human interaction generation, face reconstruction and editing are accepted by CVPR 2024.
 - 02/2024, One paper on human action recognition is accepted by TPAMI.
+- 11/2023, 团队获得第十八届“挑战杯”数字人专项赛特等奖.
 - 09/2023, We will organize a workshop "[AI for Digital Human](https://digitalhumanworkshop.github.io/)" on AAAI 2024.
 - 09/2023, One paper on NeRF-based visual localization is accepted by NeurIPS 2023.
 - 07/2023, One paper on human action generation is accepted by ICCV 2023.
