@@ -54,12 +54,12 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
 
 * A Coding Framework and Benchmark towards Low-Bitrate Video Understanding.  
 *Yuan Tian, Guo Lu, **Yichao Yan**, Guangtao Zhai, Li Chen, Zhiyong Gao.  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.*  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024.*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10440520)
 
 * Head3D: Complete 3D Head Generation via Tri-plane Feature Distillation.  
 *Yuhao Cheng, **Yichao Yan**, Wenhan Zhu, Ye Pan, Bowen Pan, Xiaokang Yang.  
-ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2024.*  
+ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2024.*  
 [[paper]](https://dl.acm.org/doi/10.1145/3635717)
 
 * NeRF-IBVS: Visual Servo Based on NeRF for Visual Localization and Navigation.  
