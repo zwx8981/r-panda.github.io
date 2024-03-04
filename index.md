@@ -13,7 +13,7 @@ We have a light stage and several motion capture devices.
 ![image](facility.png)
 
 ### Opening Positions
-Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email. （[2024年入学研究生还有一个计算机专业的专硕名额，如已经通过夏令营欢迎联系]()）
+Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email. 
 
 
 ### Biography
@@ -24,6 +24,8 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates   
+- 02/2023, Four papers on human action generation, face reconstruction, and editing are accepted by CVPR 2024.
+- 02/2024, One paper on human action recognition is accepted by TPAMI.
 - 09/2023, We will organize a workshop "[AI for Digital Human](https://digitalhumanworkshop.github.io/)" on AAAI 2024.
 - 09/2023, One paper on NeRF-based visual localization is accepted by NeurIPS 2023.
 - 07/2023, One paper on human action generation is accepted by ICCV 2023.
@@ -41,30 +43,23 @@ I am interested in **computer vision** and machine learning problems. Typically,
 - 05/2021, I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
 - 11/2020, I receive the Excellent Doctoral Dissertation Award from CSIG.
 
-### Preprints
 
-* HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks.  
-*Zhuo Chen, Xudong Xu, **Yichao Yan**, Ye Pan, Wenhan Zhu, Wayne Wu, Bo Dai, Xiaokang Yang.  
-arXiv preprint, 2023.*  
-[[paper]](https://arxiv.org/abs/2304.09463)
+### Publications
+
+* Inter-X: Towards Versatile Human-Human Interaction Analysis.  
+*Liang Xu, Xintao Lv, **Yichao Yan**, Xin Jin, Shuwen Wu, Congsheng Xu, Yifan Liu, Yizhou Zhou, Fengyun Rao, Xingdong Sheng, Yunhui Liu, Wenjun Zeng2, Xiaokang Yang.  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
+[[paper]](https://arxiv.org/pdf/2312.16051.pdf) [[project]](https://liangxuy.github.io/inter-x/)
+
+* A Coding Framework and Benchmark towards Low-Bitrate Video Understanding.  
+*Yuan Tian, Guo Lu, **Yichao Yan**, Guangtao Zhai, Li Chen, Zhiyong Gao.  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10440520)
 
 * Head3D: Complete 3D Head Generation via Tri-plane Feature Distillation.  
 *Yuhao Cheng, **Yichao Yan**, Wenhan Zhu, Ye Pan, Bowen Pan, Xiaokang Yang.  
-arXiv preprint, 2023.*  
-[[paper]](https://arxiv.org/abs/2303.15892)
-
-* DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering.  
-*Shunyu Yao, RuiZhe Zhong, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang.  
-arXiv preprint, 2022.*  
-[[paper]](https://arxiv.org/abs/2201.00791) [[project page]](https://zerzerzerz.github.io/DFA-NeRF)
-
-
-* Local-to-Global Self-Attention in Vision Transformers.    
-*Jinpeng Li\*, **Yichao Yan**\*, Shengcai Liao, Xiaokang Yang, Ling Shao.  
-arXiv preprint, 2021.*  
-[[paper]](https://arxiv.org/abs/2107.04735)  
-
-### Publications
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2024.*  
+[[paper]](https://dl.acm.org/doi/10.1145/3635717)
 
 * NeRF-IBVS: Visual Servo Based on NeRF for Visual Localization and Navigation.  
 *Yuanze Wang, **Yichao Yan**, Dianxi Shi, Wenhan Zhu, Jianqiang Xia, Jianqiang Xia, Tan Jeff, Songchang Jin, Ke Gao, Xiaobo Li, Xiaokang Yang.  
