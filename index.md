@@ -48,7 +48,7 @@ I am interested in **computer vision** and machine learning problems. Typically,
 ### Publications
 
 * Inter-X: Towards Versatile Human-Human Interaction Analysis.  
-*Liang Xu, Xintao Lv, **Yichao Yan**, Xin Jin, Shuwen Wu, Congsheng Xu, Yifan Liu, Yizhou Zhou, Fengyun Rao, Xingdong Sheng, Yunhui Liu, Wenjun Zeng2, Xiaokang Yang.  
+*Liang Xu, Xintao Lv, **Yichao Yan**, Xin Jin, Shuwen Wu, Congsheng Xu, Yifan Liu, Yizhou Zhou, Fengyun Rao, Xingdong Sheng, Yunhui Liu, Wenjun Zeng, Xiaokang Yang.  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
 [[paper]](https://arxiv.org/pdf/2312.16051.pdf) [[project]](https://liangxuy.github.io/inter-x/)
 
