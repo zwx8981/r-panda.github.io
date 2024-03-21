@@ -47,10 +47,24 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 ### Publications
 
+* 3D-Aware Face Editing via Warping-Guided Latent Direction Learning.  
+*Yuhao Cheng, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Zhengqin Xu, Di Xu, Changpeng Yang, **Yichao Yan**.  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
+[[project]](https://cyh-sj.github.io/FaceEdit3D/)
+
 * Inter-X: Towards Versatile Human-Human Interaction Analysis.  
 *Liang Xu, Xintao Lv, **Yichao Yan**, Xin Jin, Shuwen Wu, Congsheng Xu, Yifan Liu, Yizhou Zhou, Fengyun Rao, Xingdong Sheng, Yunhui Liu, Wenjun Zeng, Xiaokang Yang.  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
 [[paper]](https://arxiv.org/pdf/2312.16051.pdf) [[project]](https://liangxuy.github.io/inter-x/)
+
+* ReGenNet: Towards Human Action-Reaction Synthesis.  
+*Liang Xu, Yizhou Zhou, **Yichao Yan**, Xin Jin, Wenhan Zhu, Fengyun Rao, Xiaokang Yang, Wenjun Zeng.  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
+[[paper]](https://arxiv.org/abs/2403.11882) [[project]](https://liangxuy.github.io/ReGenNet/)
+
+* Monocular Identity-Conditioned Facial Reflectance Reconstruction.  
+*Xingyu Ren, Jiankang Deng, Yuhao Cheng, Jia Guo, Chao Ma, **Yichao Yan**, Wenhan Zhu, Xiaokang Yang.  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
 
 * A Coding Framework and Benchmark towards Low-Bitrate Video Understanding.  
 *Yuan Tian, Guo Lu, **Yichao Yan**, Guangtao Zhai, Li Chen, Zhiyong Gao.  
