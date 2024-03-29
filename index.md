@@ -64,7 +64,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
 
 * **Monocular Identity-Conditioned Facial Reflectance Reconstruction.**  
 *Xingyu Ren, Jiankang Deng, Yuhao Cheng, Jia Guo, Chao Ma, **Yichao Yan**, Wenhan Zhu, Xiaokang Yang.  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
+[[project]](https://xingyuren.github.io/id2reflectance/)
 
 * **A Coding Framework and Benchmark towards Low-Bitrate Video Understanding.**  
 *Yuan Tian, Guo Lu, **Yichao Yan**, Guangtao Zhai, Li Chen, Zhiyong Gao.  
@@ -100,7 +101,7 @@ International Conference on Computer Vision (**ICCV**), 2023.*
 * **Improving Fairness in Facial Albedo Estimation via Visual-Textual Cues.**  
 *YXingyu Ren, Jiankang Deng, Chao Ma, **Yichao Yan**, Xiaokang Yang.  
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.*  
-[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Ren_Improving_Fairness_in_Facial_Albedo_Estimation_via_Visual-Textual_Cues_CVPR_2023_paper.html) [[project]](https://xingyuren-cn.github.io/id2albedo/)  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Ren_Improving_Fairness_in_Facial_Albedo_Estimation_via_Visual-Textual_Cues_CVPR_2023_paper.html) [[project]](https://xingyuren.github.io/id2albedo/)  
 
 * **3D-Aware Face Swapping.**  
 *Yixuan Li, Chao Ma, **Yichao Yan**, Wenhan Zhu, Xiaokang Yang.  
