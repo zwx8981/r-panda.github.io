@@ -64,7 +64,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
 
 * **Monocular Identity-Conditioned Facial Reflectance Reconstruction.**  
 *Xingyu Ren, Jiankang Deng, Yuhao Cheng, Jia Guo, Chao Ma, **Yichao Yan**, Wenhan Zhu, Xiaokang Yang.  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
 [[project]](https://xingyuren.github.io/id2reflectance/)
 
 * **A Coding Framework and Benchmark towards Low-Bitrate Video Understanding.**  
